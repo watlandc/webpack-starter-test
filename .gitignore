@@ -3,16 +3,16 @@
 
 # compiled output
 
-# /dist
-# /tmp
-# /typings
-# /deploy
+/dist
+/tmp
+/typings
+/deploy
 
 #dependencies
 
-# /node_modules
+/node_modules
 
 # IDEs
 
-# /.vscode
-# /npm-debug.log
+/.vscode
+/npm-debug.log
