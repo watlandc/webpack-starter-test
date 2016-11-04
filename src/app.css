@@ -1,0 +1,13 @@
+:root {
+  --main-color: blue;
+  --big-dog: {
+    /*background-color: grey;*/
+    height: 500px;
+    width: 500px;
+  }
+}
+
+h1 {
+  color: var(--main-color);
+  display: flex;
+}
